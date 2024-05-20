@@ -1,0 +1,181 @@
+body {
+    background-color: #de99b9;
+    margin: 0px;
+}
+
+#first{
+    /* float: left; */
+    height: 60px;
+}
+
+#first1{
+    float: left;
+    background-color: #d16d9b;
+    /* margin: 2px; */
+    padding: 5px;
+}
+
+#first2{
+    float: left;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+#first3{
+    float: left;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+#main{
+    width: auto;
+    background-color: #d16d9b;
+    /* border: solid; */
+    height: 420px;
+    margin: 20px;
+}
+
+#main1{
+    float: left;
+    width: 580px;
+    height: 320px;
+    /* border: solid; */
+    margin: 45px 0px 20px 40px;
+}
+
+#main2{
+    float: left;
+    width: 530px;
+    height: 320px;
+    /* border: solid; */
+    margin: 45px 0px 20px 0px;
+}
+
+#image{
+    width: 530px;
+    height: 320px;
+    border: solid 2px;
+}
+
+#head{
+    text-align: center;
+    font-family: cursive;
+}
+
+.para{
+    font-size: 40px;
+    margin: 0px;
+    height: 25px;
+    font-weight: bold;
+}
+
+#pad1{
+    margin-left: 30px;
+    font-family: cursive;
+}
+
+#pad2{
+    margin-left: 30px;
+    line-height: 30px;
+    font-family: cursive;
+}
+
+#sahil{
+    color: white;
+}
+
+#slide{
+    margin: 45px 0px 20px 40px;
+    text-align: center;
+    height: 530px;
+}
+
+#slide1{
+    float: left;
+    height: 500px;
+    /* border: solid; */
+    width: 250px;
+    margin-left: 210px;
+    background-color: #d16d9b;
+}
+
+#slide2{
+    float: left;
+    height: 550px;
+    /* border: solid; */
+    width: 250px;
+    margin-top: -25px;
+    background-color: #db5894;
+}
+
+#slide3{
+    float: left;
+    height: 500px;
+    /* border: solid; */
+    width: 250px;
+    background-color: #d16d9b;
+}
+
+.imge{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    margin-top: 45px;
+}
+
+.headi3{
+    margin-top: 45px;
+    font-family: cursive;
+}
+
+#headi{
+    margin-top: 70px;
+    font-family: cursive;
+}
+
+.parag{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 13px;
+    text-align: left;
+    font-family: cursive;
+}
+
+.but{
+    height: 35px;
+    width: 85px;
+    margin-top: 25px;
+    font-family: cursive;
+}
+
+
+#foot{
+    background-color: #d16d9b;
+    height: 200px;
+}
+
+#ruler{
+    color: white;
+}
+
+#ruler1{
+    color: white;
+    margin-top: 30px;
+}
+
+#last{
+    text-align: center;
+    width: 600px;
+    height: 140px;
+    margin-left: 320px;
+    padding-top: 25px;
+}
+
+#icons{
+    margin-left: 10px;
+}
+
+#headi2{
+    font-size: 30px;
+    font-family: cursive;
+}
